@@ -11,5 +11,5 @@ body {
     background-repeat: no-repeat;
     /* background-repeat: repeat-y; */
     background-position: right top;
-    background-attachment: fixed;
+    background-attachment: fixed ;
 }
