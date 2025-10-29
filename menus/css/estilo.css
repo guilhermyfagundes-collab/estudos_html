@@ -54,12 +54,13 @@ h4 {
     margin: 0 50px;
 }
 
-#menu ul li a:hover{
+#menu ul li a:hover {
     background-color: #b5d45d;
-    color:#2d19e2;
+    color: #2d19e2;
     border-bottom: 3px solid #ea0000;
-    
+
 }
+
 /* Selecionar o ul que estiver dentro do elemento id menuv */
 #menuv ul {
     /* Remove as bolinhas / marcadores padrão da lista */
@@ -74,7 +75,7 @@ h4 {
 }
 
 /* Seleciona os links <a> dentro de cada <li> daquele <ul> do #menuv */
-#menuv ul li a{
+#menuv ul li a {
     /* faz cada link virar um bloco(ocupa a linha inteira do menu) */
     /* isso é que deixa os itens empilhados verticalmente e toda a linha clicavel */
     display: block;
@@ -90,7 +91,7 @@ h4 {
     margin: 2px 0px;
 }
 
-#menuv ul li a:hover{
+#menuv ul li a:hover {
     background-color: #b5d45d;
     color: #2d19e2;
     border-bottom: 3px solid #EA0000;
